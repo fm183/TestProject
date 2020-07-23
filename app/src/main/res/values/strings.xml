@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="input_user_name">输入用户名</string>
+    <string name="input_user_password">输入密码</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
